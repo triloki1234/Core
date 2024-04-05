@@ -1,0 +1,59 @@
+JVM : Java virtual machine: it creates a virtual platform on 
+your computer so that all java program can run on it.
+JRE : Java Runtime Environment : it is used to provide an 
+environment on jvm for program to run. it is used to check 
+code for syntax errors, converting code into byte code(.class) 
+files. and running the program, loading the classess.
+
+
+class Demo
+{
+	public static void main(String args[])
+	{
+		// to print output
+	}
+}
+single line comments
+/*
+	Multi-line comment
+*/
+
+// class : class is a container which is used to hold all the members of 
+the class like methods, variables, blicks, objects etc. it is used to 
+group together all the members of a class. it is used implement the
+concept of Encapsulation.
+
+// public : it is an access modifier/specifier which grants permission 
+to use its member by any class inside the same folder and also from outside folder.
+
+// static : static keyword is used to enable a member of a class to not 
+get duplicated by the objects.
+because static members are not part of any object. So, they can be 
+accessed directly by any other class.
+	static members can be accessed by static members only.
+
+// void : it is a return type of a method. when a method does not return
+any volue, then we use void.
+
+//main : main is the main method of a class/project. it is the first 
+mehod which the compiler fethes to start your program.
+
+//String : String is an inbuilt class of java. All the classes of java 
+are reffered as Non-primitive datatype.
+
+//args[] : it is a single dimension array of String type. which is used 
+for storing command line arguments.
+
+//These two methods are used to print messages, output values of 
+variables on the console screan.
+
+// System.out.println(); : println() prints the message/variable and 
+puts \n(nextline) after that
+
+// System.out.print();   : print() prints the message/variables
+without nextline
+
+
+
+
+
